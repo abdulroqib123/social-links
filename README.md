@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -12,8 +12,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Built with](#built-with)
 
 - [Author](#author)
-
-
 
 ## Overview
 
@@ -39,10 +37,10 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS
 - Flexbox
--css transition
+  -css transition
 
 ## Author
 
-- Website - [Abdulroqib Oladipo](https://scyflix.github.io/Abdulroqib-Portfolio/)
+- Website - [Abdulroqib Oladipo](https://abdulroqib.scybud.com)
 - Frontend Mentor - [@scyflix](https://www.frontendmentor.io/profile/scyflix)
 - Twitter - [@abdulroqib123](https://x.com/abdulroqib123)
