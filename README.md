@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/scyflix/social-links-profile-main)
+- Solution URL: (https://github.com/abdulroqib123/social-links-profile-main)
 - Live Site URL: [Add live site URL here](https://scyflix.github.io/social-links-profile-main/)
 
 ## My process
